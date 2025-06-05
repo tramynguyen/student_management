@@ -1,0 +1,113 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS103",
+    "hoTen": "Hồ Thanh Quỳnh",
+    "gioiTinh": "Nữ",
+    "cmnd": "712398231760",
+    "ngaySinh": "2009-09-06",
+    "diaChi": "102 đường số 2, Xã Long Hòa, Quận 4, TP. HCM",
+    "dienThoai": "0359239988",
+    "hinhAnh": "/images/avatars/hs103.png",
+    "lop": "9A3",
+    "khoi": "9"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2025-05-07",
+      "ly_do_vang": "Đi thi đấu thể thao"
+    },
+    {
+      "ngay": "2024-08-16",
+      "ly_do_vang": "Đi thi đấu thể thao"
+    },
+    {
+      "ngay": "2024-12-20",
+      "ly_do_vang": "Đi thi đấu thể thao"
+    },
+    {
+      "ngay": "2025-03-04",
+      "ly_do_vang": "Bệnh"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.4
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.9
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.9
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.5
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.4
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.8
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.8
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.9
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 9.6
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.3
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.1
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.6
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 3.5
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs103",
+    "matkhau": "123456"
+  }
+}

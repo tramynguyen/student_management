@@ -1,0 +1,101 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS006",
+    "hoTen": "Hồ Thái Dũng",
+    "gioiTinh": "Nữ",
+    "cmnd": "658363407740",
+    "ngaySinh": "2012-09-08",
+    "diaChi": "131 đường số 1, Xã Long Hòa, Quận 5, TP. HCM",
+    "dienThoai": "0388766876",
+    "hinhAnh": "/images/avatars/hs006.png",
+    "lop": "6A2",
+    "khoi": "6"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2024-12-17",
+      "ly_do_vang": "Không có lý do"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.2
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.3
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.3
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.3
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.3
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.5
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.1
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.7
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK2",
+      "diemTrungBinh": 3.3
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.2
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.4
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.8
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.3
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs006",
+    "matkhau": "123456"
+  }
+}

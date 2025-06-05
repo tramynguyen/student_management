@@ -1,0 +1,114 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS028",
+    "hoTen": "Mai Thanh Bình",
+    "gioiTinh": "Nữ",
+    "cmnd": "045320759819",
+    "ngaySinh": "2012-05-04",
+    "diaChi": "153 đường số 5, Xã Tân Phú, Quận 1, TP. HCM",
+    "dienThoai": "0327995131",
+    "hinhAnh": "/images/avatars/hs028.png",
+    "lop": "6A6",
+    "khoi": "6"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2025-02-25",
+      "ly_do_vang": "Đi thi đấu thể thao"
+    },
+    {
+      "ngay": "2025-03-03",
+      "ly_do_vang": "Việc gia đình"
+    },
+    {
+      "ngay": "2025-06-23",
+      "ly_do_vang": "Không có lý do"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.7
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.2
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 9.9
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.1
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 10
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.8
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7.9
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7.5
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.8
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7.2
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.4
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.5
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.2
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.5
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs028",
+    "matkhau": "123456"
+  }
+}

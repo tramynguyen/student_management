@@ -1,0 +1,101 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS019",
+    "hoTen": "Võ Văn Long",
+    "gioiTinh": "Nữ",
+    "cmnd": "892957756672",
+    "ngaySinh": "2012-05-24",
+    "diaChi": "80 đường số 9, Phường 4, Quận 2, TP. HCM",
+    "dienThoai": "0984524954",
+    "hinhAnh": "/images/avatars/hs019.png",
+    "lop": "6A4",
+    "khoi": "6"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2025-04-12",
+      "ly_do_vang": "Đi thi học sinh giỏi"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.9
+    },
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7.2
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.6
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.2
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.7
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 9.2
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.7
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.4
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.8
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.9
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.9
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.1
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.1
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.4
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs019",
+    "matkhau": "123456"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS029",
+    "hoTen": "Nguyễn Hồng Nga",
+    "gioiTinh": "Nam",
+    "cmnd": "716712973641",
+    "ngaySinh": "2012-09-23",
+    "diaChi": "172 đường số 11, Phường 5, Quận 4, TP. HCM",
+    "dienThoai": "0895570806",
+    "hinhAnh": "/images/avatars/hs029.png",
+    "lop": "6A6",
+    "khoi": "6"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2024-08-15",
+      "ly_do_vang": "Việc gia đình"
+    },
+    {
+      "ngay": "2025-03-01",
+      "ly_do_vang": "Việc gia đình"
+    },
+    {
+      "ngay": "2025-04-17",
+      "ly_do_vang": "Việc gia đình"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.6
+    },
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.5
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.4
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.8
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.7
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.7
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.7
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7.7
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.7
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.5
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.8
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.7
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 9.3
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.6
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs029",
+    "matkhau": "123456"
+  }
+}

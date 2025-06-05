@@ -1,0 +1,101 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS054",
+    "hoTen": "Mai Thị Việt",
+    "gioiTinh": "Nam",
+    "cmnd": "444503175313",
+    "ngaySinh": "2011-12-09",
+    "diaChi": "22 đường số 16, Phường 1, Quận 4, TP. HCM",
+    "dienThoai": "0783084948",
+    "hinhAnh": "/images/avatars/hs054.png",
+    "lop": "7A5",
+    "khoi": "7"
+  },
+  "diemDanh": [],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.7
+    },
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.1
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.4
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.5
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.8
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.7
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.9
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.6
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.2
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.2
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK2",
+      "diemTrungBinh": 3.8
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.3
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.5
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.7
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.8
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs054",
+    "matkhau": "123456"
+  }
+}

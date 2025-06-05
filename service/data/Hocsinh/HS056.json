@@ -1,0 +1,110 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS056",
+    "hoTen": "Lê Thị Phương",
+    "gioiTinh": "Nữ",
+    "cmnd": "376404542139",
+    "ngaySinh": "2011-08-24",
+    "diaChi": "166 đường số 2, Xã Tân Thới, Quận 2, TP. HCM",
+    "dienThoai": "0782207190",
+    "hinhAnh": "/images/avatars/hs056.png",
+    "lop": "7A6",
+    "khoi": "7"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2024-09-07",
+      "ly_do_vang": "Đi thi học sinh giỏi"
+    },
+    {
+      "ngay": "2024-08-08",
+      "ly_do_vang": "Không có lý do"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.7
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.8
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK2",
+      "diemTrungBinh": 9
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.3
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.6
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.3
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.9
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.6
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.8
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.2
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.8
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.9
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs056",
+    "matkhau": "123456"
+  }
+}

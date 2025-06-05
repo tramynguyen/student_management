@@ -1,0 +1,118 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS052",
+    "hoTen": "Huỳnh Thành Quỳnh",
+    "gioiTinh": "Nữ",
+    "cmnd": "507403749354",
+    "ngaySinh": "2011-06-01",
+    "diaChi": "179 đường số 1, Xã Tân Thới, Huyện Bình Chánh, TP. HCM",
+    "dienThoai": "0776091894",
+    "hinhAnh": "/images/avatars/hs052.png",
+    "lop": "7A5",
+    "khoi": "7"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2025-05-10",
+      "ly_do_vang": "Bệnh"
+    },
+    {
+      "ngay": "2024-12-16",
+      "ly_do_vang": "Bệnh"
+    },
+    {
+      "ngay": "2025-02-23",
+      "ly_do_vang": "Việc gia đình"
+    },
+    {
+      "ngay": "2025-06-24",
+      "ly_do_vang": "Bệnh"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.2
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.3
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7.8
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.8
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 3.4
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.4
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7.9
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.7
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.4
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 9.1
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.3
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK2",
+      "diemTrungBinh": 3.9
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.7
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.5
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.1
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.6
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs052",
+    "matkhau": "123456"
+  }
+}

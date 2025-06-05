@@ -1,0 +1,106 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS015",
+    "hoTen": "Đinh Quang Bình",
+    "gioiTinh": "Nữ",
+    "cmnd": "414036847802",
+    "ngaySinh": "2012-07-28",
+    "diaChi": "100 đường số 12, Xã Tân Thông, Quận 4, TP. HCM",
+    "dienThoai": "0350766533",
+    "hinhAnh": "/images/avatars/hs015.png",
+    "lop": "6A3",
+    "khoi": "6"
+  },
+  "diemDanh": [],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.8
+    },
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.1
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK2",
+      "diemTrungBinh": 9.6
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.7
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 9.4
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.2
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.3
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.3
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.6
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.9
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 3.1
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.7
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK2",
+      "diemTrungBinh": 3.6
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.6
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.4
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7.2
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs015",
+    "matkhau": "123456"
+  }
+}

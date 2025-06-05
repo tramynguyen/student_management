@@ -1,0 +1,114 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS114",
+    "hoTen": "Võ Tuấn Mai",
+    "gioiTinh": "Nữ",
+    "cmnd": "916989718467",
+    "ngaySinh": "2009-08-13",
+    "diaChi": "171 đường số 5, Phường 2, Quận Bình Tân, TP. HCM",
+    "dienThoai": "0946575561",
+    "hinhAnh": "/images/avatars/hs114.png",
+    "lop": "9A5",
+    "khoi": "9"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2024-11-21",
+      "ly_do_vang": "Không có lý do"
+    },
+    {
+      "ngay": "2024-12-27",
+      "ly_do_vang": "Đi thi đấu thể thao"
+    },
+    {
+      "ngay": "2024-12-26",
+      "ly_do_vang": "Không có lý do"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4
+    },
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.6
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.9
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.8
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.8
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 3.8
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.4
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.7
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.4
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.7
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 3.1
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.8
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.6
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.2
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.4
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.4
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs114",
+    "matkhau": "123456"
+  }
+}

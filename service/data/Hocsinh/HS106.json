@@ -1,0 +1,118 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS106",
+    "hoTen": "Hồ Minh Uyên",
+    "gioiTinh": "Nữ",
+    "cmnd": "429959558554",
+    "ngaySinh": "2009-05-12",
+    "diaChi": "24 đường số 2, Xã Tân Thông, Huyện Hóc Môn, TP. HCM",
+    "dienThoai": "0903729963",
+    "hinhAnh": "/images/avatars/hs106.png",
+    "lop": "9A4",
+    "khoi": "9"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2025-02-25",
+      "ly_do_vang": "Việc gia đình"
+    },
+    {
+      "ngay": "2024-09-17",
+      "ly_do_vang": "Đi thi học sinh giỏi"
+    },
+    {
+      "ngay": "2024-09-15",
+      "ly_do_vang": "Đi thi đấu thể thao"
+    },
+    {
+      "ngay": "2024-08-24",
+      "ly_do_vang": "Bệnh"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.2
+    },
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK2",
+      "diemTrungBinh": 9.4
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.2
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.7
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.4
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.2
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 3.1
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.2
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.9
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 3.8
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.2
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.4
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.1
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.5
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.6
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.9
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs106",
+    "matkhau": "123456"
+  }
+}

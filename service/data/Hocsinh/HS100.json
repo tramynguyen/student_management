@@ -1,0 +1,113 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS100",
+    "hoTen": "Trịnh Tuấn Phong",
+    "gioiTinh": "Nữ",
+    "cmnd": "214224178797",
+    "ngaySinh": "2009-01-18",
+    "diaChi": "182 đường số 7, Xã Tân Phú, Huyện Bình Chánh, TP. HCM",
+    "dienThoai": "0987876631",
+    "hinhAnh": "/images/avatars/hs100.png",
+    "lop": "9A2",
+    "khoi": "9"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2025-06-24",
+      "ly_do_vang": "Đi thi đấu thể thao"
+    },
+    {
+      "ngay": "2025-02-12",
+      "ly_do_vang": "Đi thi học sinh giỏi"
+    },
+    {
+      "ngay": "2025-04-20",
+      "ly_do_vang": "Đi thi đấu thể thao"
+    },
+    {
+      "ngay": "2025-05-01",
+      "ly_do_vang": "Đi thi học sinh giỏi"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.2
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.2
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.6
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.8
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.1
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.4
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.3
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 9.5
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.5
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.8
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7.4
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.7
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.2
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.8
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.3
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs100",
+    "matkhau": "123456"
+  }
+}

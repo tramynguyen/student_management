@@ -1,0 +1,96 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS071",
+    "hoTen": "Huỳnh Thị Thành",
+    "gioiTinh": "Nữ",
+    "cmnd": "088275115633",
+    "ngaySinh": "2010-05-09",
+    "diaChi": "168 đường số 5, Xã Bình Hưng, Quận 2, TP. HCM",
+    "dienThoai": "0335245133",
+    "hinhAnh": "/images/avatars/hs071.png",
+    "lop": "8A3",
+    "khoi": "8"
+  },
+  "diemDanh": [],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.6
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.6
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.6
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 3.1
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.1
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.8
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.8
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.9
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.5
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.7
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK2",
+      "diemTrungBinh": 3.8
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.4
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.5
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 3.3
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs071",
+    "matkhau": "123456"
+  }
+}

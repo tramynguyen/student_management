@@ -1,0 +1,104 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS060",
+    "hoTen": "Mai Hồng Tâm",
+    "gioiTinh": "Nam",
+    "cmnd": "889252870284",
+    "ngaySinh": "2011-10-12",
+    "diaChi": "41 đường số 10, Xã Bình Hưng, Quận 1, TP. HCM",
+    "dienThoai": "0707402961",
+    "hinhAnh": "/images/avatars/hs060.png",
+    "lop": "7A6",
+    "khoi": "7"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2025-04-26",
+      "ly_do_vang": "Bệnh"
+    },
+    {
+      "ngay": "2024-09-13",
+      "ly_do_vang": "Không có lý do"
+    },
+    {
+      "ngay": "2024-11-04",
+      "ly_do_vang": "Đi thi đấu thể thao"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.8
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.6
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.8
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.6
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.3
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.2
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.4
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.3
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.5
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.3
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7.5
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.5
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7.2
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.1
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs060",
+    "matkhau": "123456"
+  }
+}

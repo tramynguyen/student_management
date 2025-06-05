@@ -1,0 +1,110 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS111",
+    "hoTen": "Đặng Hoàng Lan",
+    "gioiTinh": "Nam",
+    "cmnd": "597838759052",
+    "ngaySinh": "2009-10-18",
+    "diaChi": "145 đường số 4, Xã Long Hòa, Quận Bình Tân, TP. HCM",
+    "dienThoai": "0709608918",
+    "hinhAnh": "/images/avatars/hs111.png",
+    "lop": "9A5",
+    "khoi": "9"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2024-10-09",
+      "ly_do_vang": "Việc gia đình"
+    },
+    {
+      "ngay": "2024-11-23",
+      "ly_do_vang": "Đi thi đấu thể thao"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.1
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7.4
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 10
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.9
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.5
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.7
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.2
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.5
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.3
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.8
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.4
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.6
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.8
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.6
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.9
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs111",
+    "matkhau": "123456"
+  }
+}

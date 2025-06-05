@@ -1,0 +1,86 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS120",
+    "hoTen": "Hoàng Hồng Uyên",
+    "gioiTinh": "Nam",
+    "cmnd": "039370535264",
+    "ngaySinh": "2009-02-08",
+    "diaChi": "48 đường số 7, Xã Long Hòa, Quận 5, TP. HCM",
+    "dienThoai": "0397657806",
+    "hinhAnh": "/images/avatars/hs120.png",
+    "lop": "9A6",
+    "khoi": "9"
+  },
+  "diemDanh": [],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.4
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.9
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.3
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.9
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.8
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.3
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.4
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.2
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.3
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.3
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.4
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.9
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs120",
+    "matkhau": "123456"
+  }
+}

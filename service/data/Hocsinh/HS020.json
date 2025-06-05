@@ -1,0 +1,111 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS020",
+    "hoTen": "Phạm Tuấn Linh",
+    "gioiTinh": "Nữ",
+    "cmnd": "050801985246",
+    "ngaySinh": "2012-08-27",
+    "diaChi": "45 đường số 18, Phường 4, Quận Bình Tân, TP. HCM",
+    "dienThoai": "0365415620",
+    "hinhAnh": "/images/avatars/hs020.png",
+    "lop": "6A4",
+    "khoi": "6"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2024-08-06",
+      "ly_do_vang": "Bệnh"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.1
+    },
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.8
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.1
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7.3
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.8
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.8
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 9
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.4
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.8
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.4
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.9
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.7
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.3
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 9.1
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.5
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs020",
+    "matkhau": "123456"
+  }
+}

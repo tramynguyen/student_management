@@ -1,0 +1,17 @@
+{
+  "thongTinCaNhan": {
+    "id": "GT004",
+    "hoTen": "Võ Thái Nam",
+    "gioiTinh": "Nữ",
+    "cmnd": "593237388223",
+    "ngaySinh": "1989-10-24",
+    "diaChi": "177 đường số 8, Phường 1, Quận 5, TP. HCM",
+    "dienThoai": "0359371791",
+    "hinhAnh": "/images/avatars/gt004.png"
+  },
+  "dsLopQuanLy": ["9A1", "9A2", "9A3"],
+  "thongTinDangNhap": {
+    "tenDangnhap": "gt004",
+    "matkhau": "123456"
+  }
+}

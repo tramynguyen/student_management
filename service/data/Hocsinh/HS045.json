@@ -1,0 +1,96 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS045",
+    "hoTen": "Đỗ Thanh Linh",
+    "gioiTinh": "Nam",
+    "cmnd": "574114103176",
+    "ngaySinh": "2011-09-23",
+    "diaChi": "169 đường số 16, Xã Bình Hưng, Quận 5, TP. HCM",
+    "dienThoai": "0901342841",
+    "hinhAnh": "/images/avatars/hs045.png",
+    "lop": "7A3",
+    "khoi": "7"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2025-04-10",
+      "ly_do_vang": "Bệnh"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7.7
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.3
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.3
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.6
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.3
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.1
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.4
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.4
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.9
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.6
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.1
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs045",
+    "matkhau": "123456"
+  }
+}

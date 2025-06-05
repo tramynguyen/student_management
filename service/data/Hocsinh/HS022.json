@@ -1,0 +1,106 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS022",
+    "hoTen": "Ngô Ngọc Dũng",
+    "gioiTinh": "Nam",
+    "cmnd": "104496502999",
+    "ngaySinh": "2012-09-25",
+    "diaChi": "101 đường số 10, Xã Tân Phú, Huyện Bình Chánh, TP. HCM",
+    "dienThoai": "0377662070",
+    "hinhAnh": "/images/avatars/hs022.png",
+    "lop": "6A5",
+    "khoi": "6"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2025-06-07",
+      "ly_do_vang": "Bệnh"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.5
+    },
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.2
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.1
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.9
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.1
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.4
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.9
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.8
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.4
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.4
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.8
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.8
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.3
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7.4
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.2
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.1
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs022",
+    "matkhau": "123456"
+  }
+}

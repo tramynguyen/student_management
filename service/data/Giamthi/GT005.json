@@ -1,0 +1,17 @@
+{
+  "thongTinCaNhan": {
+    "id": "GT005",
+    "hoTen": "Nguyễn Thị Tú",
+    "gioiTinh": "Nam",
+    "cmnd": "267086506563",
+    "ngaySinh": "1975-09-19",
+    "diaChi": "165 đường số 4, Phường 3, Huyện Bình Chánh, TP. HCM",
+    "dienThoai": "0398892967",
+    "hinhAnh": "/images/avatars/gt005.png"
+  },
+  "dsLopQuanLy": ["9A4", "9A5", "9A6"],
+  "thongTinDangNhap": {
+    "tenDangnhap": "gt005",
+    "matkhau": "123456"
+  }
+}

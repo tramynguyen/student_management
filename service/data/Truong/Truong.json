@@ -1,0 +1,39 @@
+{
+  "thongTinTruong": {
+    "ten": "truong THCS X",
+    "diaChi": "227 Nguyễn Văn Cừ, Quận 5, TP. HCM",
+    "dienThoai": "07930495672",
+    "hieu_truong": "Trần Xuân Nam",
+    "email": "admi@thcsx.edu.vn"
+  },
+  "danh_sach_khoi": ["6", "7", "8", "9"],
+
+  "danh_sach_lop": [
+    "6A1",
+    "6A2",
+    "6A3",
+    "6A4",
+    "6A5",
+    "6A6",
+    "7A1",
+    "7A2",
+    "7A3",
+    "7A4",
+    "7A5",
+    "7A6",
+    "8A1",
+    "8A2",
+    "8A3",
+    "8A4",
+    "8A5",
+    "8A6",
+    "9A1",
+    "9A2",
+    "9A3",
+    "9A4",
+    "9A5",
+    "9A6"
+  ],
+  "danh_sach_giam_thi": ["GT001", "GT002", "GT003", "GT004", "GT005"],
+  "danh_sach_giao_vu": ["GV001", "GV002", "GV003"]
+}

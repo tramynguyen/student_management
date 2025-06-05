@@ -1,0 +1,17 @@
+{
+  "thongTinCaNhan": {
+    "id": "GT003",
+    "hoTen": "Lý Minh Thảo",
+    "gioiTinh": "Nữ",
+    "cmnd": "739280754012",
+    "ngaySinh": "1983-01-18",
+    "diaChi": "122 đường số 17, Xã Bình Hưng, Huyện Củ Chi, TP. HCM",
+    "dienThoai": "0368429566",
+    "hinhAnh": "/images/avatars/gt003.png"
+  },
+  "dsLopQuanLy": ["8A1", "8A2", "8A3", "8A4", "8A5", "8A6"],
+  "thongTinDangNhap": {
+    "tenDangnhap": "gt003",
+    "matkhau": "123456"
+  }
+}

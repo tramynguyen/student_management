@@ -1,0 +1,108 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS104",
+    "hoTen": "Phạm Công Thảo",
+    "gioiTinh": "Nữ",
+    "cmnd": "099740999927",
+    "ngaySinh": "2009-01-23",
+    "diaChi": "12 đường số 4, Xã Tân Thông, Quận 5, TP. HCM",
+    "dienThoai": "0966171516",
+    "hinhAnh": "/images/avatars/hs104.png",
+    "lop": "9A3",
+    "khoi": "9"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2025-06-27",
+      "ly_do_vang": "Đi thi đấu thể thao"
+    },
+    {
+      "ngay": "2025-02-19",
+      "ly_do_vang": "Đi thi học sinh giỏi"
+    },
+    {
+      "ngay": "2024-09-07",
+      "ly_do_vang": "Đi thi học sinh giỏi"
+    },
+    {
+      "ngay": "2025-05-21",
+      "ly_do_vang": "Không có lý do"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.5
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.3
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.1
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.7
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.4
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 9.5
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.2
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.4
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.7
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.1
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.4
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.6
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.3
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs104",
+    "matkhau": "123456"
+  }
+}

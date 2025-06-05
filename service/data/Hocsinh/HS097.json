@@ -1,0 +1,103 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS097",
+    "hoTen": "Võ Như Lan",
+    "gioiTinh": "Nữ",
+    "cmnd": "855419042678",
+    "ngaySinh": "2009-06-11",
+    "diaChi": "10 đường số 7, Xã Tân Phú, Huyện Bình Chánh, TP. HCM",
+    "dienThoai": "0775394096",
+    "hinhAnh": "/images/avatars/hs097.png",
+    "lop": "9A2",
+    "khoi": "9"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2024-09-08",
+      "ly_do_vang": "Việc gia đình"
+    },
+    {
+      "ngay": "2024-09-28",
+      "ly_do_vang": "Không có lý do"
+    },
+    {
+      "ngay": "2024-08-05",
+      "ly_do_vang": "Việc gia đình"
+    },
+    {
+      "ngay": "2024-12-01",
+      "ly_do_vang": "Đi thi học sinh giỏi"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.6
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.5
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.3
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.4
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.6
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.7
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 9.9
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.7
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.1
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.5
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.9
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.7
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.1
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs097",
+    "matkhau": "123456"
+  }
+}

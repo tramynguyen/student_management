@@ -1,0 +1,105 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS058",
+    "hoTen": "Trần Hoàng Phong",
+    "gioiTinh": "Nữ",
+    "cmnd": "933406007417",
+    "ngaySinh": "2011-12-01",
+    "diaChi": "176 đường số 8, Phường 1, Huyện Củ Chi, TP. HCM",
+    "dienThoai": "0386353995",
+    "hinhAnh": "/images/avatars/hs058.png",
+    "lop": "7A6",
+    "khoi": "7"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2024-12-13",
+      "ly_do_vang": "Bệnh"
+    },
+    {
+      "ngay": "2025-03-07",
+      "ly_do_vang": "Việc gia đình"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.3
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.3
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK2",
+      "diemTrungBinh": 9.8
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.8
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.6
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7.8
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.1
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7.3
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.5
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.1
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.7
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 3.5
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.9
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.3
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs058",
+    "matkhau": "123456"
+  }
+}

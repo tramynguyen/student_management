@@ -1,0 +1,17 @@
+{
+  "thongTinCaNhan": {
+    "id": "GT002",
+    "hoTen": "Đặng Thanh An",
+    "gioiTinh": "Nam",
+    "cmnd": "438771777611",
+    "ngaySinh": "1987-10-28",
+    "diaChi": "92 đường số 3, Xã Tân Thông, Huyện Nhà Bè, TP. HCM",
+    "dienThoai": "0765176554",
+    "hinhAnh": "/images/avatars/gt002.png"
+  },
+  "dsLopQuanLy": ["7A1", "7A2", "7A3", "7A4", "7A5", "7A6"],
+  "thongTinDangNhap": {
+    "tenDangnhap": "gt002",
+    "matkhau": "123456"
+  }
+}

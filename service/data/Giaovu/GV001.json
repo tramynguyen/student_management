@@ -1,0 +1,17 @@
+{
+  "thongTinCaNhan": {
+    "id": "GV001",
+    "hoTen": "Đỗ Như Tú",
+    "gioiTinh": "Nữ",
+    "cmnd": "404112499499",
+    "ngaySinh": "1973-05-08",
+    "diaChi": "180 đường số 11, Xã Tân Thông, Quận Bình Tân, TP. HCM",
+    "dienThoai": "0775255006",
+    "hinhAnh": "/images/avatars/gv001.png"
+  },
+  "dsLopQuanLy": ["6A1", "6A2", "6A3", "6A4", "6A5", "6A6", "7A1", "7A2"],
+  "thongTinDangNhap": {
+    "tenDangnhap": "gv001",
+    "matkhau": "123456"
+  }
+}

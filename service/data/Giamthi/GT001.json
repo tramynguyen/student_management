@@ -1,0 +1,17 @@
+{
+  "thongTinCaNhan": {
+    "id": "GT001",
+    "hoTen": "Mai Tuấn Vân",
+    "gioiTinh": "Nam",
+    "cmnd": "841725958812",
+    "ngaySinh": "1982-09-12",
+    "diaChi": "148 đường số 7, Xã Long Hòa, Quận Bình Tân, TP. HCM",
+    "dienThoai": "0968399516",
+    "hinhAnh": "/images/avatars/gt001.png"
+  },
+  "dsLopQuanLy": ["6A1", "6A2", "6A3", "6A4", "6A5", "6A6"],
+  "thongTinDangNhap": {
+    "tenDangnhap": "gt001",
+    "matkhau": "123456"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS094",
+    "hoTen": "Vũ Hữu Nhung",
+    "gioiTinh": "Nữ",
+    "cmnd": "106785407199",
+    "ngaySinh": "2009-06-10",
+    "diaChi": "134 đường số 16, Phường 1, Quận 2, TP. HCM",
+    "dienThoai": "0905553237",
+    "hinhAnh": "/images/avatars/hs094.png",
+    "lop": "9A1",
+    "khoi": "9"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2024-11-24",
+      "ly_do_vang": "Việc gia đình"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.9
+    },
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK2",
+      "diemTrungBinh": 3.9
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.8
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.1
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.3
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.5
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.3
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.1
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.2
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.1
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 3.4
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.9
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 9.4
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs094",
+    "matkhau": "123456"
+  }
+}

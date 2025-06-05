@@ -1,0 +1,100 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS001",
+    "hoTen": "Võ Anh An",
+    "gioiTinh": "Nữ",
+    "cmnd": "894261628384",
+    "ngaySinh": "2012-09-13",
+    "diaChi": "160 đường số 12, Xã Tân Thông, Quận 3, TP. HCM",
+    "dienThoai": "0793049552",
+    "hinhAnh": "/images/avatars/hs001.png",
+    "lop": "6A1",
+    "khoi": "6"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2024-12-02",
+      "ly_do_vang": "Đi thi đấu thể thao"
+    },
+    {
+      "ngay": "2025-05-07",
+      "ly_do_vang": "Đi thi đấu thể thao"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.2
+    },
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.3
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.5
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.3
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.8
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.2
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.1
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.7
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.5
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.4
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.8
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.8
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs001",
+    "matkhau": "123456"
+  }
+}

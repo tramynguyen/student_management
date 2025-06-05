@@ -1,0 +1,17 @@
+{
+  "thongTinCaNhan": {
+    "id": "GV003",
+    "hoTen": "Mai Tuấn Phong",
+    "gioiTinh": "Nữ",
+    "cmnd": "302589561084",
+    "ngaySinh": "1986-01-03",
+    "diaChi": "180 đường số 13, Xã Long Hòa, Huyện Hóc Môn, TP. HCM",
+    "dienThoai": "0984924936",
+    "hinhAnh": "/images/avatars/gv003.png"
+  },
+  "dsLopQuanLy": ["8A5", "8A6", "9A1", "9A2", "9A3", "9A4", "9A5", "9A6"],
+  "thongTinDangNhap": {
+    "tenDangnhap": "gv003",
+    "matkhau": "123456"
+  }
+}

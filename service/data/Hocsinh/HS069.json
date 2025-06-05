@@ -1,0 +1,106 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS069",
+    "hoTen": "Lê Ngọc Hà",
+    "gioiTinh": "Nam",
+    "cmnd": "354762480005",
+    "ngaySinh": "2010-07-04",
+    "diaChi": "14 đường số 17, Xã Tân Phú, Huyện Nhà Bè, TP. HCM",
+    "dienThoai": "0936889725",
+    "hinhAnh": "/images/avatars/hs069.png",
+    "lop": "8A2",
+    "khoi": "8"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2025-02-22",
+      "ly_do_vang": "Đi thi học sinh giỏi"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.1
+    },
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7.5
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.2
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.9
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 7.3
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 9.1
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.8
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.2
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.1
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.5
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 8.5
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5.6
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5.3
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8.3
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs069",
+    "matkhau": "123456"
+  }
+}

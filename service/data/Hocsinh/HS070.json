@@ -1,0 +1,113 @@
+{
+  "thongTinCaNhan": {
+    "id": "HS070",
+    "hoTen": "Đinh Đức Tâm",
+    "gioiTinh": "Nữ",
+    "cmnd": "533916538079",
+    "ngaySinh": "2010-04-03",
+    "diaChi": "75 đường số 5, Phường 2, Quận 1, TP. HCM",
+    "dienThoai": "0774265434",
+    "hinhAnh": "/images/avatars/hs070.png",
+    "lop": "8A2",
+    "khoi": "8"
+  },
+  "diemDanh": [
+    {
+      "ngay": "2024-09-01",
+      "ly_do_vang": "Việc gia đình"
+    },
+    {
+      "ngay": "2024-09-23",
+      "ly_do_vang": "Đi thi đấu thể thao"
+    },
+    {
+      "ngay": "2025-05-07",
+      "ly_do_vang": "Không có lý do"
+    },
+    {
+      "ngay": "2025-02-23",
+      "ly_do_vang": "Đi thi học sinh giỏi"
+    }
+  ],
+  "diemSo": [
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.8
+    },
+    {
+      "monHoc": "Toán",
+      "hocKy": "HK2",
+      "diemTrungBinh": 7.9
+    },
+    {
+      "monHoc": "Văn",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.4
+    },
+    {
+      "monHoc": "Anh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.6
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK1",
+      "diemTrungBinh": 4.2
+    },
+    {
+      "monHoc": "Lý",
+      "hocKy": "HK2",
+      "diemTrungBinh": 6.3
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.7
+    },
+    {
+      "monHoc": "Hóa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 8
+    },
+    {
+      "monHoc": "Sinh",
+      "hocKy": "HK1",
+      "diemTrungBinh": 5
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK1",
+      "diemTrungBinh": 9.9
+    },
+    {
+      "monHoc": "Sử",
+      "hocKy": "HK2",
+      "diemTrungBinh": 3.5
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK1",
+      "diemTrungBinh": 3.1
+    },
+    {
+      "monHoc": "Địa",
+      "hocKy": "HK2",
+      "diemTrungBinh": 4.9
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK1",
+      "diemTrungBinh": 6.7
+    },
+    {
+      "monHoc": "GDCD",
+      "hocKy": "HK2",
+      "diemTrungBinh": 5
+    }
+  ],
+  "thongTinDangNhap": {
+    "tenDangnhap": "hs070",
+    "matkhau": "123456"
+  }
+}
